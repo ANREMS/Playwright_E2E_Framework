@@ -9,7 +9,7 @@ import { ScreenshotHelper } from '../utils/screenshot.helper';
 import { CartItem } from '../types/framework.types';
 
 export class CartPage extends BasePage {
-
+//GIT edit to check
   // ── Locators ──────────────────────────────────────────────────────────────
   private readonly SEL_CART_ITEM   = '.cart_item';
   private readonly SEL_ITEM_NAME   = '.inventory_item_name';
