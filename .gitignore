@@ -1,0 +1,10 @@
+node_modules/
+dist/
+reports/html/
+reports/screenshots/
+reports/*.json
+reports/*.log
+.env
+*.log
+.DS_Store
+Thumbs.db
