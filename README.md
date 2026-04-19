@@ -118,7 +118,7 @@ git commit -m "Initial commit: Playwright E2E BDD framework"
 # 5. Add the remote repository (create an empty repo on GitHub first)
 git remote add origin https://github.com/<your-username>/<repo-name>.git
 
-Example: https://github.com/ANREMS/Playwright_E2E_Framework.git
+Example: git remote add origin https://github.com/ANREMS/Playwright_E2E_Framework.git
 
 # 6. Rename branch to main and push
 git branch -M main
